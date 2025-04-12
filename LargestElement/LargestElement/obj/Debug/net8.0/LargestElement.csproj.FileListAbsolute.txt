@@ -1,0 +1,14 @@
+C:\Users\way2k\source\repos\LargestElement\LargestElement\bin\Debug\net8.0\LargestElement.exe
+C:\Users\way2k\source\repos\LargestElement\LargestElement\bin\Debug\net8.0\LargestElement.deps.json
+C:\Users\way2k\source\repos\LargestElement\LargestElement\bin\Debug\net8.0\LargestElement.runtimeconfig.json
+C:\Users\way2k\source\repos\LargestElement\LargestElement\bin\Debug\net8.0\LargestElement.dll
+C:\Users\way2k\source\repos\LargestElement\LargestElement\bin\Debug\net8.0\LargestElement.pdb
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.AssemblyInfoInputs.cache
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.AssemblyInfo.cs
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.csproj.CoreCompileInputs.cache
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.dll
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\refint\LargestElement.dll
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.pdb
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\LargestElement.genruntimeconfig.cache
+C:\Users\way2k\source\repos\LargestElement\LargestElement\obj\Debug\net8.0\ref\LargestElement.dll

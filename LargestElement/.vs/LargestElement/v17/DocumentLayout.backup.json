@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\way2k\\source\\repos\\LargestElement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F319A88C-8F79-4FC6-A1BD-3F1DCF8BD811}|LargestElement\\LargestElement.csproj|c:\\users\\way2k\\source\\repos\\largestelement\\largestelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319A88C-8F79-4FC6-A1BD-3F1DCF8BD811}|LargestElement\\LargestElement.csproj|solutionrelative:largestelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\LargestElement\\LargestElement\\Program.cs",
+              "RelativeDocumentMoniker": "LargestElement\\Program.cs",
+              "ToolTip": "C:\\Users\\way2k\\source\\repos\\LargestElement\\LargestElement\\Program.cs",
+              "RelativeToolTip": "LargestElement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:26:17.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
