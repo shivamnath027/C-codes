@@ -1,0 +1,15 @@
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\bin\Debug\net8.0\Sorted_or_not.exe
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\bin\Debug\net8.0\Sorted_or_not.deps.json
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\bin\Debug\net8.0\Sorted_or_not.runtimeconfig.json
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\bin\Debug\net8.0\Sorted_or_not.dll
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\bin\Debug\net8.0\Sorted_or_not.pdb
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.AssemblyInfoInputs.cache
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.AssemblyInfo.cs
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.csproj.CoreCompileInputs.cache
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.sourcelink.json
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.dll
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\refint\Sorted_or_not.dll
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.pdb
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\Sorted_or_not.genruntimeconfig.cache
+C:\Users\way2k\source\repos\Sorted_or_not\Sorted_or_not\obj\Debug\net8.0\ref\Sorted_or_not.dll
