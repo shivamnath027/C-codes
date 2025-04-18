@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\way2k\\source\\repos\\myfirstapi\\myfirstapi\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\way2k\\source\\repos\\myfirstapi\\myfirstapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\way2k\\source\\repos\\myfirstapi\\myfirstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\way2k\\source\\repos\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\way2k\\source\\repos\\myfirstapi\\myfirstapi\\myfirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\myfirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\way2k\\source\\repos\\myfirstapi\\myfirstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD7B9D8-F11E-41F9-A97F-715302A98B1C}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Data\\BookContext.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI\\Data\\BookContext.cs",
+              "ToolTip": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Data\\BookContext.cs",
+              "RelativeToolTip": "MyFirstAPI\\Data\\BookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:34:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Models\\Book.cs",
+              "RelativeToolTip": "MyFirstAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:27:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "MyFirstAPI\\Program.cs",
@@ -42,32 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "MyFirstAPI\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Controllers\\BooksController.cs",
               "RelativeToolTip": "MyFirstAPI\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T07:11:47.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "MyFirstAPI\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\Models\\Book.cs",
-              "RelativeToolTip": "MyFirstAPI\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T06:27:53.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MyFirstAPI.csproj",
               "DocumentMoniker": "C:\\Users\\way2k\\source\\repos\\MyFirstAPI\\MyFirstAPI\\MyFirstAPI.csproj",
               "RelativeDocumentMoniker": "MyFirstAPI\\MyFirstAPI.csproj",
