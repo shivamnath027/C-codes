@@ -38,11 +38,13 @@ namespace L_and_d
 
             Console.WriteLine(dict.Keys); // Prints the keys of the dictionary
             Console.WriteLine(dict.Values); // Prints the values of the dictionary
+
             // Iterating through the dictionary
             foreach (KeyValuePair<int, string> kvp in dict)
             {
                 Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
             }
+
             //using for loop
             for (int i = 0; i < dict.Count; i++)
             {
